@@ -2,7 +2,7 @@
 import './App.css';
 import './index.css';
 import { Button } from '@/components/ui/button';
-import { ThemeProvider } from '@/Context/ThemeContext';
+import { ThemeProvider } from '@/context/ThemeContext';
 import { MailOpen } from 'lucide-react';
 import { ThemeToggle } from './components/ui/ThemeToggle';
 import Navbar from './components/Navbar';
