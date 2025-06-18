@@ -1,0 +1,18 @@
+Copyright (c) 2025 Keshav Girase
+
+All rights reserved.
+
+This source code and all associated files are the intellectual property of the author.
+
+You are NOT permitted to:
+- Copy or reproduce the codebase
+- Modify, adapt, or translate any portion
+- Distribute or sublicense the code or parts thereof
+- Use this project or parts of it for commercial purposes
+
+Unauthorized use, reproduction, or distribution is strictly prohibited and may result in legal action under applicable laws.
+
+To request usage rights or licenses, contact the author:
+
+Email: keshavgirase007@gmail.com
+GitHub: https://github.com/Keshav-girase
