@@ -34,7 +34,7 @@ app.use(bodyParser.json());
 // CORS configuration
 app.use(
   cors({
-    origin: [process.env.FRONTEND_URL, "http://localhost:5173", "http://localhost:4173"],
+    origin: [process.env.FRONTEND_URL, "http://localhost:5173", "http://localhost:4173", "https://youlayer.onrender.com"],
     methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE'],
     allowedHeaders: ['Content-Type', 'Authorization'],
     credentials: true,
