@@ -4,7 +4,7 @@
 # 🎥 YouLayer — Secure Video Publishing Middleware for YouTube Teams
 
 🌐 **Frontend:** [https://youlayer.vercel.app](https://youlayer.vercel.app)  
-🔧 **Backend API:** [https://youlayer-api.onrender.com](https://youlayer-api.onrender.com)
+🔧 **Backend API:** [https://youlayer.onrender.com](https://youlayer.onrender.com)
 
 ![Made with Node.js](https://img.shields.io/badge/Backend-Node.js-green)
 ![Made with React](https://img.shields.io/badge/Frontend-React-blue)
