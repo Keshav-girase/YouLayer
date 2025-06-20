@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const nodemailer = require('nodemailer');
 const path = require('path');
 const ejs = require('ejs');
@@ -43,7 +44,7 @@ exports.inviteTeamMember = async (req, res) => {
 
   await invitation.save();
   
-  const invitationLink = `http://localhost:5173/manager/dashboard/accept-invitation?token=${invitationToken}`;
+  const invitationLink = `${process.env.FRONTEND_URL}/manager/dashboard/accept-invitation?token=${invitationToken}`;
 
   // Create a Nodemailer transporter
   const transporter = nodemailer.createTransport({
